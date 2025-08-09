@@ -1,71 +1,53 @@
-<<<<<<< HEAD
-# tic-tac-toe
-=======
-# 🎮 Tic Tac Toe Game
+# 💱 Currency Converter
 
-A simple, responsive Tic Tac Toe game built using **HTML, CSS, and JavaScript**. Play against your friends and enjoy a clean, interactive UI.
+A simple and responsive currency converter web app built using **HTML**, **CSS**, and **JavaScript**.  
+It allows users to convert values between different currencies using real-time exchange rates.
 
 ---
 
-## 🔗 Live Demo
-
-👉 [Click here to play!](https://prathamcodes04.github.io/tic-tac-toe/)
-
----
-
-## 📸 Screenshots
-
-<img src="images/screenshot1.png" width="400" />
-<img src="images/screenshot2.png" width="400" />
+## 🚀 Features
+- Convert between multiple world currencies
+- Real-time exchange rates using API
+- Clean and responsive UI
+- Instant calculation without page reload
 
 ---
 
-## 🧩 Features
-
-- ✅ 2-player support
-- 🎨 Light and Dark Mode toggle
-- 📱 Responsive design for all screens
-- 🧠 Win-check logic with highlight
-- 🔁 Restart game button
+## 📸 Preview
+![Currency Converter Screenshot](ss1.png)  
+*(Replace with your actual screenshot file if available)*
 
 ---
 
-## 💻 Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-
----
-
-## 🛠️ How to Run Locally
-
-```bash
-git clone https://github.com/yourusername/tic-tac-toe.git
-cd tic-tac-toe
-open index.html
+## 🛠️ Technologies Used
+- **HTML5** – Structure of the app
+- **CSS3** – Styling and layout
+- **JavaScript (Vanilla JS)** – Functionality and API integration
 
 ---
 
-📁 Project Structure
-markdown
-Copy
-Edit
-tic-tac-toe/
+## 📂 Project Structure
+
+Currency-Converter/
 │
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-└── images/
-    └── screenshot1.png
+├── index.html # Main HTML file
+├── style.css # Styling for the app
+└── script.js # Logic for conversion and API calls
 
 ---
 
-🧑‍💻 Made By
-Pratham Gupta
-🚀 GitHub
-📸 LinkedIn
+## 📦 Installation & Usage
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/prathamcodes04/Currency-Converter.git
+   
+---
 
+📌 Future Improvements
+ - Add more currencies
+ - Add historical exchange rate view
+ - Add dark mode
 
->>>>>>> 8d0cd08 (initial commit)
+📜 License
+This project is licensed under the MIT License – feel free to use and modify it.
+
