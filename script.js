@@ -8,7 +8,7 @@ const amount = document.querySelector(".amount input");
 
 const countryList = {
   USD: "US",
-  EUR: "FR", // Use France for Euro
+  EUR: "FR", 
   GBP: "GB",
   INR: "IN",
   AUD: "AU",
