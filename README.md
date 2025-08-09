@@ -13,8 +13,8 @@ It allows users to convert values between different currencies using real-time e
 
 ---
 
-## 📸 Preview
-![Currency Converter Screenshot](images/ss1.png)  
+## 🔗 Live Demo
+[View Currency Converter](https://prathamcodes04.github.io/Currency-Converter/) 
 
 ---
 
@@ -49,6 +49,7 @@ Currency-Converter/
 
 📜 License
 This project is licensed under the MIT License – feel free to use and modify it.
+
 
 
 
