@@ -15,7 +15,6 @@ It allows users to convert values between different currencies using real-time e
 
 ## 📸 Preview
 ![Currency Converter Screenshot](ss1.png)  
-*(Replace with your actual screenshot file if available)*
 
 ---
 
@@ -50,4 +49,5 @@ Currency-Converter/
 
 📜 License
 This project is licensed under the MIT License – feel free to use and modify it.
+
 
