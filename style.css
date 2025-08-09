@@ -9,22 +9,22 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #0f172a; /* Deep navy background */
+    background-color: #0f172a; 
     font-family: Arial, sans-serif;
 }
 
 .container {
-    background-color: #1e293b; /* Charcoal card */
+    background-color: #1e293b; 
     padding: 2rem;
     border-radius: 1rem;
     min-height: 45vh;
     width: 40vh;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4); /* Soft shadow for depth */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
 }
 
 h1,
 p {
-    color: #f1f5f9; /* Off-white text */
+    color: #f1f5f9;
 }
 
 form {
@@ -41,16 +41,16 @@ input {
 }
 
 form input {
-    border: 1px solid #334155; /* Subtle dark border */
-    background-color: #0f172a; /* Match background for minimal look */
-    color: #f1f5f9; /* White text */
+    border: 1px solid #334155; 
+    background-color: #0f172a; 
+    color: #f1f5f9; 
     font-size: 1rem;
     height: 3rem;
     padding-left: 0.5rem;
 }
 
 form input::placeholder {
-    color: #94a3b8; /* Soft grey placeholder */
+    color: #94a3b8; 
 }
 
 .dropdown {
@@ -63,7 +63,7 @@ form input::placeholder {
 .dropdown i {
     font-size: 1.5rem;
     margin-top: 1rem;
-    color: #38bdf8; /* Cyan icon */
+    color: #38bdf8; 
 }
 
 .select-container img {
@@ -76,7 +76,7 @@ form input::placeholder {
     align-items: center;
     width: 6rem;
     border-radius: 0.5rem;
-    border: 1px solid #334155; /* Subtle border */
+    border: 1px solid #334155;
     background-color: #0f172a;
 }
 
@@ -88,7 +88,7 @@ form input::placeholder {
 }
 
 .select-container option {
-    background-color: #1e293b; /* Dark dropdown */
+    background-color: #1e293b;
     color: #f1f5f9;
 }
 
@@ -99,8 +99,8 @@ form input::placeholder {
 
 form button {
     height: 3rem;
-    background-color: #38bdf8; /* Cyan button */
-    color: #0f172a; /* Dark text on button for contrast */
+    background-color: #38bdf8;
+    color: #0f172a; 
     font-size: 1.15rem;
     font-weight: bold;
     cursor: pointer;
@@ -108,7 +108,7 @@ form button {
 }
 
 form button:hover {
-    background-color: #0ea5e9; /* Slightly darker cyan on hover */
+    background-color: #0ea5e9; 
 }
 
 footer{
